@@ -4,6 +4,8 @@
 This project proposes a novel framework that integrates expert-derived textual concepts into a CLIP-based vision-language model to guide plexus classification in histopathological whole slide images (WSIs) for Hirschsprung’s Disease (HD).  
 This method combines domain-specific medical knowledge with deep learning to improve interpretability and alignment with real-world diagnostic processes.
 
+**Accepted into the ICAAI 2025 - The 9th International Conference on Advances in Artificial Intelligence at Manchester, UK!**
+
 ## ✨ Highlights
 
 - **Baseline Models:** VGG-19 (baseline), ResNet-18, and ResNet-50 CNNs fine-tuned on histopathological tiles. 
