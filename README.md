@@ -82,11 +82,18 @@ This project incorporates code from the **ConcepPath** repository, which was dev
 
 If you use or build upon the *ConcepPath* components included in this repository, please ensure you also cite their work accordingly.
 
-## 🤝 Authors
+## 📚 Please Cite
 
-- **Youssef Megahed** - MASc, Data Science, Analytics, and Artificial Intelligence at Carleton University
-- **Atallah Madi** - MASc, Electrical and Computer Engineering at Carleton University
-- **Dina El Demellawy** - Pediatric and Perinatal Pathologist at the Children’s Hospital of Eastern Ontario (CHEO)
-- **Adrian D. C. Chan** - Professor, PhD, P.Eng, Department of Systems and Computer Engineering at Carleton University
+```bibtex
+@article{megahedmadi2025kdvlm,
+  title={Knowledge-Driven Vision-Language Model for Plexus Detection in Hirschsprung’s Disease},
+  author={Youssef Megahed and Atallah Madi and Dina El Demellawy and Adrian D. C. Chan},
+  year={2025},
+  eprint={2510.21083},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV},
+  url={https://arxiv.org/abs/2510.21083},
+}
+```
 
 📧 Contact: youssefmegahed@cmail.carleton.ca or atallahmadi@cmail.carleton.ca
