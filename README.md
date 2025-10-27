@@ -1,5 +1,5 @@
 # Knowledge-Driven Vision-Language Model for Plexus Detection in Hirschsprung’s Disease
-*Youssef Megahed*<sup>†</sup>, *Atallah Madi*<sup>†</sup>, Dina El Demellawy, Adrian D. C. Chan
+*Youssef Megahed*<sup>†</sup>, *Atallah Madi*<sup>†</sup>, *Dina El Demellawy, Adrian D. C. Chan*
 
 <sup>†</sup> These authors contributed equally as co–first authors.
 
