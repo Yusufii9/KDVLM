@@ -2,7 +2,7 @@
 *Youssef Megahed, Atallah Madi, Dina El Demellawy, Adrian D. C. Chan*
 
 [![arXiv](https://img.shields.io/badge/arXiv-2510.21083-b31b1b.svg)](https://arxiv.org/abs/2510.21083)
-# [![Conference](https://img.shields.io/badge/ICAAI-2025-blue.svg)](#)
+% [![Conference](https://img.shields.io/badge/ICAAI-2025-blue.svg)](#)
 
 ## 📋 Overview
 
