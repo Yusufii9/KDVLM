@@ -70,6 +70,12 @@ By aligning AI predictions with expert-driven medical concepts, this method offe
 - Expand prompt diversity to improve classification robustness.
 - Acquire larger annotated datasets.
 
+## 🙏 Acknowledgments
+
+This project incorporates code from the **ConcepPath** repository, which was developed by its original authors. We acknowledge and thank them for their contributions to concept-based vision-language modeling (Original ConcepPath code: [GitHub Repository]([https://github.com/....](https://github.com/HKU-MedAI/ConcepPath))).
+
+If you use or build upon the *ConcepPath* components included in this repository, please ensure you also cite their work accordingly.
+
 ## 🤝 Authors
 
 - **Youssef Megahed** - MASc, Data Science, Analytics, and Artificial Intelligence at Carleton University
