@@ -1,4 +1,9 @@
 # Knowledge-Driven Vision-Language Model for Plexus Detection in Hirschsprung’s Disease
+*Youssef Megahed, Atallah Madi, Dina El Demellawy, Adrian D. C. Chan*
+
+[![arXiv](https://img.shields.io/badge/arXiv-2510.21083-b31b1b.svg)](https://arxiv.org/abs/2510.21083)
+[![Conference](https://img.shields.io/badge/ICAAI-2025-blue.svg)](#)
+
 ## 📋 Overview
 
 This project proposes a novel framework that integrates expert-derived textual concepts into a CLIP-based vision-language model to guide plexus classification in histopathological whole slide images (WSIs) for Hirschsprung’s Disease (HD).  
