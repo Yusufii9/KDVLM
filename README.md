@@ -4,6 +4,7 @@
 <sup>†</sup> These authors contributed equally as Co-first authors.
 
 [![arXiv](https://img.shields.io/badge/arXiv-2510.21083-b31b1b.svg)](https://arxiv.org/abs/2510.21083)
+[![DOI](https://img.shields.io/badge/DOI-10.1145%2F3787279.3787326-blue.svg)](https://doi.org/10.1145/3787279.3787326)
 
 ## 📋 Overview
 
