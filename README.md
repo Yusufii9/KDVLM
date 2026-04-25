@@ -86,14 +86,16 @@ If you use or build upon the *ConcepPath* components included in this repository
 ## 📚 Please Cite
 
 ```bibtex
-@article{megahedmadi2025kdvlm,
-  title={Knowledge-Driven Vision-Language Model for Plexus Detection in Hirschsprung’s Disease},
-  author={Youssef Megahed and Atallah Madi and Dina El Demellawy and Adrian D. C. Chan},
-  year={2025},
-  eprint={2510.21083},
-  archivePrefix={arXiv},
-  primaryClass={cs.CV},
-  url={https://arxiv.org/abs/2510.21083},
+@inproceedings{megahedmadi2026,
+author = {Megahed, Youssef and Madi, Atallah and El Demellawy, Dina and Chan, Adrian D. C.},
+title = {Knowledge-Driven Vision-Language Model for Plexus Detection in Hirschsprung's Disease},
+year = {2026},
+isbn = {9798400721045},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3787279.3787326},
+doi = {10.1145/3787279.3787326},
+series = {ICAAI '25}
 }
 ```
 
